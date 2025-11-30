@@ -1,6 +1,6 @@
 # 🧩 Lista de Exercícios — Programação em Python
 
-Versão com instruções completas para exercícios práticos que cobrem I/O, operadores, listas, funções, dicionários e tratamento de exceções.
+Instruções completas para exercícios práticos que cobrem I/O, operadores, listas, funções, dicionários e tratamento de exceções.
 
 ## 🎯 Objetivo
 
